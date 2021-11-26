@@ -9,6 +9,7 @@ npm link
 ### Running gcp-docs
 
 ![gcp-docs] (https://github.com/monotosh-k/gcp-docs/blob/master/img/command.png)
+[<img alt="gcp-docs" width="40px" src="img/command.png" />]
 
 ```
 gcp-docs
